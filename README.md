@@ -86,19 +86,9 @@ PG(전자지급결제대행)는 가맹점과 카드사·은행 사이에서 결�
 
 ## 설치
 
-한 줄이면 됩니다. 저장소를 `~/.leoreo`에 받고 스킬 3개를 심링크로 연결합니다.
-
 ```bash
 curl -fsSL https://raw.githubusercontent.com/animepics/leoreo/main/install.sh | bash
 ```
-
-저장소가 private인 동안에는 위 주소가 열리지 않으니, GitHub 로그인이 되어 있다면 이렇게 설치합니다.
-
-```bash
-gh api repos/animepics/leoreo/contents/install.sh -H "Accept: application/vnd.github.raw" | bash
-```
-
-이미 클론해 뒀다면 저장소 안에서 `./install.sh`를 실행해도 됩니다. 업데이트도 같은 명령을 다시 실행하면 됩니다.
 
 ## 사용
 
