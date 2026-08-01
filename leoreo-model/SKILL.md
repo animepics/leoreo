@@ -80,6 +80,7 @@ description: 수익모델·가격 설계 스킬. 수익모델 15종 다이제스
 
 ## 가격 설계
 
+- 단가보다 먼저 과금 단위(무엇에 곱해서 받을지 — 좌석, 사용량, 건수, 성과)를 정합니다. 좋은 단위는 고객이 바로 이해하고, 얻는 가치와 비례하고, 고객이 크면 매출도 같이 큽니다.
 - 순서: cost-plus로 바닥을 정하고, 경쟁가로 범위를 잡고, **고객이 얻는 가치의 10~20%** 선에서 최종가를 정합니다.
 - 티어는 Good-Better-Best 3단이 표준입니다. 최고가 티어는 팔기 위해서라기보다 중간 티어를 합리적으로 보이게 하는 앵커 역할입니다.
 - 국내 B2C는 9,900원대 가격이 심리적 표준입니다. 프리미엄·번들은 15,000~21,000원대에 분포합니다.
@@ -95,7 +96,7 @@ description: 수익모델·가격 설계 스킬. 수익모델 15종 다이제스
 ## 부록과 연계
 
 - 상세 자료(15종 모델별 설명, 확장 모델 비교표, 구독 지표, take rate 수치, AI 시대 과금): `references/revenue-models.md`
-- 입력이 부족할 때의 인터뷰(다섯 영역 체크리스트, Van Westendorp·Gabor-Granger·Mom Test, B2B 결재라인 질문, 고객 인터뷰 스크립트, 가정 진행 규칙): `references/pricing-interview.md`
+- 입력이 부족할 때의 인터뷰(다섯 영역 체크리스트, 기법 선택 가이드 — Van Westendorp·Gabor-Granger·컨조인트·MaxDiff, Mom Test, Monetizing Innovation식 WTP 대화와 Leader/Filler/Killer 분류, B2B 결재라인 질문, 표본 수·과대응답 보정, 고객 인터뷰 스크립트, 가정 진행 규칙): `references/pricing-interview.md`
 - 모델이 정해지면 결제 인프라 선정과 구현, 규제는 `leoreo-pay` 스킬로 넘어갑니다.
 
 ## 출력 규칙

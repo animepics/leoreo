@@ -54,10 +54,23 @@
 - **Value-based**: 고객 체감 가치(절감 시간/비용, 증가 매출)의 10~20% 프라이싱. SW에 가장 적합, 수익성 최고.
 - 실무 순서: cost-plus 바닥 → 경쟁 조사 범위 → value 기준 최종가.
 
+### 과금 단위(value metric) 선택
+- 단가만큼 중요한 게 무엇에 곱해서 받느냐(좌석, 사용량, 건수, 성과)입니다. Price Intelligently(Patrick Campbell) 기준 세 가지: ① 고객이 가격표만 보고 바로 이해 ② 고객이 얻는 가치와 비례 ③ 고객이 성장하면 매출도 자동으로 성장.
+- 가치 비례 과금 단위는 기능 개수 기반 티어 대비 이탈이 최대 75% 낮고 확장 매출이 30% 이상 높음. 복수 value metric 운용 기업이 단일 대비 성장률 ~30% 높음.
+- 주의: 기능 잠금은 value metric이 아님. 가치를 느끼기 전에 마찰을 만드는 단위(가입 직후부터 걸리는 연락처 수 제한 등)는 역효과.
+
 ### 티어·심리
 - Good-Better-Best 3단이 표준. Enterprise 고가 티어는 앵커(Pro를 합리적으로 보이게).
 - Charm pricing(9,900원/\$9.99): left-digit bias. 셀프서브/저가 티어에 효과적.
 - 국내 B2C 구독 관행: 콘텐츠 구독 심리 표준가 **9,900원대**, 프리미엄/번들 15,000~21,000원대 (넷플릭스 프리미엄 17,000원, 리디셀렉트 9,900원 등 — 변동 잦음, 재확인).
+
+### 행동 가격 전술 6종 (Monetizing Innovation)
+- **타협 효과**: 사람은 극단을 피하고 중간을 고름 — Good-Better-Best에서 팔고 싶은 걸 가운데 두는 근거.
+- **앵커링**: 고가 옵션이 먼저 보이면 기준점이 올라감.
+- **가격=품질 신호**: 저가가 오히려 품질 의심을 부르는 카테고리(보안, 컨설팅)가 있음.
+- **면도기-면도날**: 진입 가격을 낮추고 변동분에서 회수.
+- **하루 얼마 프레이밍**: "월 3만원"보다 "하루 천원"이 결제 저항이 낮음.
+- **심리 임계점**: 1만원·10만원 같은 절벽 바로 아래 배치 (charm pricing의 일반형).
 
 ### 구독 설계 벤치마크
 - **연간 할인**: 15~20%가 표준(중앙값 ~20%). "2개월 무료" 프레이밍이 "17% 할인"보다 전환율 높음. 초기 스타트업은 락인 목적 25~30%도.
@@ -116,4 +129,4 @@
 
 ## 출처
 
-justpricing, schematichq, Vendr, dealhub, subscriptionindex, firstpagesage, m3ter/Metronome(종량제), mindstudio/growthunhinged(Kyle Poyar, 2026 State of B2B Monetization), getmonetizely(grandfathering), cookie-script/getretainly(해지 규제), origami-marketplace(take rate), RevenueCat(앱스토어 소규모 프로그램), 국내: 전자상거래법(law.go.kr), 배달앱 상생협의체 보도, 쿠팡 판매 수수료 안내.
+justpricing, schematichq, Vendr, dealhub, subscriptionindex, firstpagesage, m3ter/Metronome(종량제), mindstudio/growthunhinged(Kyle Poyar, 2026 State of B2B Monetization), getmonetizely(grandfathering), cookie-script/getretainly(해지 규제), origami-marketplace(take rate), RevenueCat(앱스토어 소규모 프로그램), Monetizing Innovation(Ramanujam & Tacke — 행동 가격 전술), Price Intelligently/ProfitWell(value metric), 국내: 전자상거래법(law.go.kr), 배달앱 상생협의체 보도, 쿠팡 판매 수수료 안내.
